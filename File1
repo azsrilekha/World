@@ -1,0 +1,19 @@
+<html>
+<head>
+<center><u>My HTML Code</center></u>
+</head>
+<body style ="background-color: red">
+<table> <center> Time Table </center>
+<tr>
+<th>Time</th>
+<th>Monday</th>
+<th>Tuesday</th>
+<th>Wenesday</th>
+<th>Thursday</th>
+<th>Friday</th>
+<th>Saturday</th>
+</tr>
+
+</body>
+</table>
+</html>
